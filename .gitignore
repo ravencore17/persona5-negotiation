@@ -6,3 +6,4 @@ data/*
 !data/tableConverter.py
 p5env/
 quick_start.cmd
+.DS_Store
